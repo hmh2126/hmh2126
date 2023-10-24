@@ -1,8 +1,8 @@
-### - Hello! I'm @hmh2126
-### - I'm a Computer Science Major at GMU
-### - Currently a full time student seeking a Software Engineer Internship
-### - I'm passionate about coding and looking to collaborate on projects in Java, C, HTML/CSS, and more!
-### - In accordance with GMU's Honor Policy, some of my repositories are private but feel free to reach out and I'm more than happy to speak about them!
+- Hello! I'm @hmh2126
+- I'm a Computer Science Major at GMU
+- Currently a full time student seeking a Software Engineer Internship
+- I'm passionate about coding and looking to collaborate on projects in Java, C, HTML/CSS, and more!
+- In accordance with GMU's Honor Policy, some of my repositories are private but feel free to reach out and I'm more than happy to speak about them!
 
 <!--
 **hmh2126/hmh2126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
